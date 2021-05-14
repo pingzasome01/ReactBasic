@@ -1,0 +1,41 @@
+.font-Date{
+    font-size: 100%;
+}
+
+.admin{
+    text-align: center;
+    
+}
+.timeClockBg{
+   
+   background-color:lavenderblush;   
+   width: 100vw;
+   height: 100vh;
+}
+.sizeCarousel{
+    width: 100%;
+    height: 100%;
+    
+}
+.sizeClock{
+    font-size: 1000%;
+
+    
+    color: white;
+
+}
+.sizeClocke{
+    font-size: 500%;
+
+    
+    color: white;
+    
+}
+.timeClock{
+    font-family:monospace;
+   
+}
+
+
+
+
